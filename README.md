@@ -38,7 +38,7 @@ https://assignment-popx-app.netlify.app/
 <div align="center"><img src="./screenshots/createaccount.png" width="800" /></div>
 
 * Login Page
-<div align="center"><img src="./screenshots/login.png" width="800" /></div>
+<div align="center"><img src="./screenshots/Login.png" width="800" /></div>
 
 * Account
 <div align="center"><img src="./screenshots/account.png" width="800" /></div>
