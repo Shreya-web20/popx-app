@@ -1,0 +1,45 @@
+.signup-container {
+    min-height: 100vh;
+    background: #f7f8f9;
+    display: flex;
+    justify-content: center;
+}
+
+.signup-content {
+    width: 100%;
+    max-width: 375px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.signup-content h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.signup-content input {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.agency {
+    margin-top: 10px;
+}
+
+.agency label {
+    margin-right: 20px;
+}
+
+.signup-content button {
+    margin-top: auto;
+    height: 46px;
+    border: none;
+    border-radius: 8px;
+    background: #6c25ff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

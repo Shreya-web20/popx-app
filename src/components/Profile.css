@@ -1,0 +1,41 @@
+.profile-container {
+    min-height: 100vh;
+    background: #f7f8f9;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-content {
+    width: 100%;
+    max-width: 375px;
+    background: #f7f8f9;
+}
+
+.header {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-info {
+    display: flex;
+    gap: 15px;
+    padding: 0 20px;
+    align-items: center;
+}
+
+.profile-info img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.profile-info h4 {
+    margin-bottom: 5px;
+}
+
+.description {
+    padding: 20px;
+    line-height: 1.6;
+    border-bottom: 2px dashed #ddd;
+}

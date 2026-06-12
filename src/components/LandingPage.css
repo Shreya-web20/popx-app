@@ -1,0 +1,60 @@
+.landing-container{
+    width: 100%;
+    min-height: 100vh;
+    background: #f7f8f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    width: 100%;
+    max-width: 375px;
+    height: 100vh;
+    background: #f7f8f9;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 30px 20px;
+}
+
+.heading1{
+    font-size: 30px;
+    font-weight: 700;
+    color: #1d2226;
+    margin-bottom: 10px;
+}
+
+p{
+    color: #6c757d;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.create-account {
+    height: 46px;
+    border: none;
+    border-radius: 8px;
+    background: #6c25ff;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.login-btn {
+    height: 46px;
+    border: none;
+    border-radius: 8px;
+    background: #cebafb;
+    color: #1d2226;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
